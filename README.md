@@ -17,7 +17,6 @@
 💡 Interested in Frontend Development, Backend Development, and 
 Competitive Programming.
 
-🌱 I’m currently exploring Rust and Go<br>
 <br/>
 
 
